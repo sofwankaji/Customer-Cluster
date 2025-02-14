@@ -67,5 +67,5 @@ To determine the optimal number of clusters (K):
 
 - Focus on **female-dominated clusters** (1, 2, 3, 4) with **personalized product recommendations** and **social media engagement**.
 
-You can explore the analysis and code in the [Customer Clustering Notebook](.customer clustering.ipynb) for a detailed breakdown of the steps, including data exploration, clustering, and visualization.
+You can explore the analysis and code in the [Customer Clustering Notebook](https://github.com/sofwankaji/Customer-Clustering/blob/main/Customer%20Clustering.ipynb) for a detailed breakdown of the steps, including data exploration, clustering, and visualization.
 
