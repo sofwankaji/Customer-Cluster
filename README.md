@@ -64,4 +64,4 @@ To determine the optimal number of clusters (K):
 ### 3. Gender-Based Approach
 
 - Focus on **female-dominated clusters** (1, 2, 3, 4) with **personalized product recommendations** and **social media engagement**.
-- 
+
