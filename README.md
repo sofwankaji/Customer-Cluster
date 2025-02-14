@@ -34,6 +34,8 @@ To determine the optimal number of clusters (K):
 
 ## Results & Insights
 
+![Customer Segmentation](./images/output.png)
+
 ### 1. Customer Segmentation
 
 - **Cluster 0 (High Income, Low Spending)**: Cautious spenders, likely to save more.
